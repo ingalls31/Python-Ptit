@@ -1,6 +1,4 @@
-if x > 0: 
-        s += min(x, 50) * 100 * 1.02
-        x -= min(x, 50)def cal(x):
+def cal(x):
     s = 0
     p = 0
     if x > 100 :
